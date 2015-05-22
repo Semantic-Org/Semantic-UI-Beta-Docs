@@ -244,28 +244,28 @@ themes      : ['Default', 'Classic', 'Basic', 'Striped']
       <div class="ui black progress">
         <div class="bar"></div>
       </div>
-      <div class="ui blue progress">
-        <div class="bar"></div>
-      </div>
-      <div class="ui green progress">
+      <div class="ui red progress">
         <div class="bar"></div>
       </div>
       <div class="ui orange progress">
         <div class="bar"></div>
       </div>
-      <div class="ui pink progress">
+      <div class="ui yellow progress">
         <div class="bar"></div>
       </div>
-      <div class="ui purple progress">
-        <div class="bar"></div>
-      </div>
-      <div class="ui red progress">
+      <div class="ui green progress">
         <div class="bar"></div>
       </div>
       <div class="ui teal progress">
         <div class="bar"></div>
       </div>
-      <div class="ui yellow progress">
+      <div class="ui blue progress">
+        <div class="bar"></div>
+      </div>
+      <div class="ui purple progress">
+        <div class="bar"></div>
+      </div>
+      <div class="ui pink progress">
         <div class="bar"></div>
       </div>
     </div>

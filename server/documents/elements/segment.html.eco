@@ -190,44 +190,62 @@ themes      : ['default', 'GitHub']
   <div class="example">
     <h4 class="ui header">Colored</h4>
     <p>A segment can be colored</p>
-    <div class="ui blue segment">
-      Blue
-    </div>
-    <div class="ui orange segment">
-      Orange
-    </div>
-    <div class="ui green segment">
-      Green
+    <div class="ui black segment">
+      Black
     </div>
     <div class="ui red segment">
       Red
     </div>
-    <div class="ui purple segment">
-      Purple
+    <div class="ui orange segment">
+      Orange
+    </div>
+    <div class="ui yellow segment">
+      Yellow
+    </div>
+    <div class="ui green segment">
+      Green
     </div>
     <div class="ui teal segment">
       Teal
     </div>
+    <div class="ui blue segment">
+      Blue
+    </div>
+    <div class="ui purple segment">
+      Purple
+    </div>
+    <div class="ui pink segment">
+      Pink
+    </div>
   </div>
   <div class="another example">
     <p>These colors can be inverted</p>
-    <div class="ui blue inverted segment">
-      Blue
+    <div class="ui inverted black segment">
+      Black
     </div>
-    <div class="ui orange inverted segment">
-      Orange
-    </div>
-    <div class="ui green inverted segment">
-      Green
-    </div>
-    <div class="ui red inverted segment">
+    <div class="ui inverted red segment">
       Red
     </div>
-    <div class="ui purple inverted segment">
+    <div class="ui inverted orange segment">
+      Orange
+    </div>
+    <div class="ui inverted yellow segment">
+      Yellow
+    </div>
+    <div class="ui inverted green segment">
+      Green
+    </div>
+    <div class="ui inverted teal segment">
+      Teal
+    </div>
+    <div class="ui inverted blue segment">
+      Blue
+    </div>
+    <div class="ui inverted purple segment">
       Purple
     </div>
-    <div class="ui teal inverted segment">
-      Teal
+    <div class="ui inverted pink segment">
+      Pink
     </div>
   </div>
 

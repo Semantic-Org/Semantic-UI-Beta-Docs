@@ -578,27 +578,69 @@ themes      : ['Default', 'GitHub']
     <h4 class="ui header">Colors</h4>
     <p>Additional colors can be specified.</p>
     <div class="ui menu">
-      <a class="active green item">
+      <a class="active red item">
+        <i class="home icon"></i> Red
+      </a>
+      <a class="orange item">
+        <i class="mail icon"></i> Orange
+      </a>
+      <a class="yellow item">
+        <i class="user icon"></i> Yellow
+      </a>
+      <a class="green item">
         <i class="home icon"></i> Green
       </a>
-      <a class="red item">
-        <i class="mail icon"></i> Red
+      <a class="teal item">
+        <i class="mail icon"></i> Teal
       </a>
       <a class="blue item">
         <i class="user icon"></i> Blue
       </a>
-      <a class="orange item">
-        <i class="home icon"></i> Orange
-      </a>
       <a class="purple item">
-        <i class="mail icon"></i> Purple
+        <i class="home icon"></i> Purple
       </a>
-      <a class="teal item">
-        <i class="user icon"></i> Teal
+      <a class="pink item">
+        <i class="mail icon"></i> Pink
       </a>
     </div>
     <br>
-    <div class="ui red menu">
+    <div class="ui orange menu">
+      <a class="active item">
+        <i class="home icon"></i> Home
+      </a>
+      <a class="item">
+        <i class="mail icon"></i> Messages
+      </a>
+      <a class="item">
+        <i class="user icon"></i> Friends
+      </a>
+    </div>
+    <br>
+    <div class="ui yellow menu">
+      <a class="active item">
+        <i class="home icon"></i> Home
+      </a>
+      <a class="item">
+        <i class="mail icon"></i> Messages
+      </a>
+      <a class="item">
+        <i class="user icon"></i> Friends
+      </a>
+    </div>
+    <br>
+    <div class="ui green menu">
+      <a class="active item">
+        <i class="home icon"></i> Home
+      </a>
+      <a class="item">
+        <i class="mail icon"></i> Messages
+      </a>
+      <a class="item">
+        <i class="user icon"></i> Friends
+      </a>
+    </div>
+    <br>
+    <div class="ui teal menu">
       <a class="active item">
         <i class="home icon"></i> Home
       </a>
@@ -622,18 +664,6 @@ themes      : ['Default', 'GitHub']
       </a>
     </div>
     <br>
-    <div class="ui orange menu">
-      <a class="active item">
-        <i class="home icon"></i> Home
-      </a>
-      <a class="item">
-        <i class="mail icon"></i> Messages
-      </a>
-      <a class="item">
-        <i class="user icon"></i> Friends
-      </a>
-    </div>
-    <br>
     <div class="ui purple menu">
       <a class="active item">
         <i class="home icon"></i> Home
@@ -646,7 +676,7 @@ themes      : ['Default', 'GitHub']
       </a>
     </div>
     <br>
-    <div class="ui teal menu">
+    <div class="ui pink menu">
       <a class="active item">
         <i class="home icon"></i> Home
       </a>
@@ -660,31 +690,7 @@ themes      : ['Default', 'GitHub']
   </div>
   <div class="another example">
     <p>These colors can also be inverted</p>
-    <div class="ui green inverted menu">
-      <a class="active item">
-        <i class="home icon"></i> Home
-      </a>
-      <a class="item">
-        <i class="mail icon"></i> Messages
-      </a>
-      <a class="item">
-        <i class="user icon"></i> Friends
-      </a>
-    </div>
-    <br>
     <div class="ui red inverted menu">
-      <a class="active item">
-        <i class="home icon"></i> Home
-      </a>
-      <a class="item">
-        <i class="mail icon"></i> Messages
-      </a>
-      <a class="item">
-        <i class="user icon"></i> Friends
-      </a>
-    </div>
-    <br>
-    <div class="ui blue inverted menu">
       <a class="active item">
         <i class="home icon"></i> Home
       </a>
@@ -708,7 +714,19 @@ themes      : ['Default', 'GitHub']
       </a>
     </div>
     <br>
-    <div class="ui purple inverted menu">
+    <div class="ui yellow inverted menu">
+      <a class="active item">
+        <i class="home icon"></i> Home
+      </a>
+      <a class="item">
+        <i class="mail icon"></i> Messages
+      </a>
+      <a class="item">
+        <i class="user icon"></i> Friends
+      </a>
+    </div>
+    <br>
+    <div class="ui green inverted menu">
       <a class="active item">
         <i class="home icon"></i> Home
       </a>
@@ -721,6 +739,42 @@ themes      : ['Default', 'GitHub']
     </div>
     <br>
     <div class="ui teal inverted menu">
+      <a class="active item">
+        <i class="home icon"></i> Home
+      </a>
+      <a class="item">
+        <i class="mail icon"></i> Messages
+      </a>
+      <a class="item">
+        <i class="user icon"></i> Friends
+      </a>
+    </div>
+    <br>
+    <div class="ui blue inverted menu">
+      <a class="active item">
+        <i class="home icon"></i> Home
+      </a>
+      <a class="item">
+        <i class="mail icon"></i> Messages
+      </a>
+      <a class="item">
+        <i class="user icon"></i> Friends
+      </a>
+    </div>
+    <br>
+        <div class="ui purple inverted menu">
+      <a class="active item">
+        <i class="home icon"></i> Home
+      </a>
+      <a class="item">
+        <i class="mail icon"></i> Messages
+      </a>
+      <a class="item">
+        <i class="user icon"></i> Friends
+      </a>
+    </div>
+    <br>
+        <div class="ui pink inverted menu">
       <a class="active item">
         <i class="home icon"></i> Home
       </a>
