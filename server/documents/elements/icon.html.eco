@@ -1316,23 +1316,29 @@ themes      : ['Default']
     <div class="example">
       <h4 class="ui header">Colors</h4>
       <p>An icon can be formatted with different colors</p>
-      <i class="black users icon"></i>
-      <i class="blue user icon"></i>
-      <i class="red users icon"></i>
-      <i class="green user icon"></i>
-      <i class="purple chat icon"></i>
-      <i class="teal comment icon"></i>
+      <i class="black home icon"></i>
+      <i class="red heart icon"></i>
+      <i class="orange thumbs up icon"></i>
+      <i class="yellow star icon"></i>
+      <i class="green users icon"></i>
+      <i class="teal user icon"></i>
+      <i class="blue comment icon"></i>
+      <i class="purple cloud icon"></i>
+      <i class="pink tag icon"></i>
     </div>
 
     <div class="example">
       <h4 class="ui header">Inverted</h4>
       <p>an icon can have its colors inverted for contrast</p>
-      <i class="inverted black users icon"></i>
-      <i class="inverted blue user icon"></i>
-      <i class="inverted red users icon"></i>
-      <i class="inverted green user icon"></i>
-      <i class="inverted purple chat icon"></i>
-      <i class="inverted teal comment icon"></i>
+      <i class="inverted black home icon"></i>
+      <i class="inverted red heart icon"></i>
+      <i class="inverted orange thumbs up icon"></i>
+      <i class="inverted yellow star icon"></i>
+      <i class="inverted green users icon"></i>
+      <i class="inverted teal user icon"></i>
+      <i class="inverted blue comment icon"></i>
+      <i class="inverted purple cloud icon"></i>
+      <i class="inverted pink tag icon"></i>
     </div>
 
   </div>
