@@ -415,7 +415,7 @@ themes      : ['Default']
 
     <div class="no example">
       <h4 class="ui header">...with HTML5 State</h4>
-      <p>Tabs can can use html5 push state to manage page state without using <code>#/foo</code> links. When a user refreshes a page using push state the server will be queried for the new url. This means you must set up appropriate routes in your backend to match each link.</p>
+      <p>Tabs can use html5 push state to manage page state without using <code>#/foo</code> links. When a user refreshes a page using push state the server will be queried for the new url. This means you must set up appropriate routes in your backend to match each link.</p>
       <div class="code">
       $('.ui.menu .item')
         .tab({
